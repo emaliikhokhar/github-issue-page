@@ -1,14 +1,11 @@
-import Body from "./Components/Body";
-import ContentHeader from "./Components/ContentHeader";
-import Header from "./Components/Header";
+import { BrowserRouter as Router, Switch, Route } from 'react-dom'
+import MainPage from './Components/MainPage';
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <ContentHeader/>
-      <Body/>
-    </div>
+      <div>
+        <MainPage />
+      </div>
   );
 }
 

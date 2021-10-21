@@ -22,7 +22,6 @@ const Body = () => {
 
 
 
-
                 <div className="mt-4">
                     {
                         data.map((elem) => {
