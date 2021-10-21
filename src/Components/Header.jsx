@@ -38,7 +38,7 @@ const Header = () => {
                 <TiArrowSortedDown />
             </div>
             <div className="fs-4 ps-4" style={{marginTop: "-8px"}}>
-                <img src={DP} width="25" height="25" style={{borderRadius:"100px"}}/>
+                <img src={DP} width="25" height="25" style={{borderRadius:"100px"}} alt="DP" />
                 <TiArrowSortedDown />
             </div>
         </div>
