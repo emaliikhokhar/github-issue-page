@@ -3,7 +3,6 @@ import { IoIosNotifications } from 'react-icons/io'
 import { AiOutlinePlus, AiFillGithub } from 'react-icons/ai'
 import { TiArrowSortedDown } from 'react-icons/ti'
 import DP from '../Ali Aftab Khokhar.jpg'
-// import Logo from '../github-logo.png'
 
 const Header = () => {
     return (

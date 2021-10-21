@@ -1,3 +1,4 @@
+import Body from "./Components/Body";
 import ContentHeader from "./Components/ContentHeader";
 import Header from "./Components/Header";
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Header/>
       <ContentHeader/>
+      <Body/>
     </div>
   );
 }
